@@ -13,9 +13,10 @@ DeepFold is free for non-commercial research. For commercial use, please contact
 3. Python packages keras
 
 ## 2. Usage and Examples
-
+        Run subset model:
 	python /path/to/folder/deepfold.py -S /path/to/your/input_folder /path/to/your/output_folder/;
-
+        Run fullset model:
+	python /path/to/folder/deepfold.py -F /path/to/your/input_folder /path/to/your/output_folder/;
 
 
 ## 3. Contact
