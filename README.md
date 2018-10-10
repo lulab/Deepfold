@@ -23,3 +23,4 @@ DeepFold is free for non-commercial research. For commercial use, please contact
 ==========
 
 Boqin Hu <huboqin_cn@163.com>
+Yang Wu <wuyang@ict.ac.cn> 
